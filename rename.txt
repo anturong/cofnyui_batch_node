@@ -1,0 +1,5 @@
+随便放同一个文件夹/
+├── main.py         ← 双击运行这个
+├── proxy.py        ← 代理检测清除 + pip安装
+├── utils.py        ← 解压、查找依赖、检测Python
+└── installer.py    ← 安装流程、重试流程
